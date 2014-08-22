@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 02f189fc860c6d472d02235a09b10038c02eac62 Jeff <jwayman@sonatype.com> 1408730196 -0400	clone: from https://jwayman@github.com/WebGoat/WebGoat.git
+02f189fc860c6d472d02235a09b10038c02eac62 b68a73f4a8695707f61834385f4445cd5b44bde9 Jeff <jwayman@sonatype.com> 1408730220 -0400	checkout: moving from master to gh-pages
+b68a73f4a8695707f61834385f4445cd5b44bde9 b68a73f4a8695707f61834385f4445cd5b44bde9 Jeff <jwayman@sonatype.com> 1408730269 -0400	checkout: moving from gh-pages to webgoat/webgoat.github.io
+b68a73f4a8695707f61834385f4445cd5b44bde9 b68a73f4a8695707f61834385f4445cd5b44bde9 Jeff <jwayman@sonatype.com> 1408733942 -0400	checkout: moving from webgoat/webgoat.github.io to gh-pages
+b68a73f4a8695707f61834385f4445cd5b44bde9 8cb4549b23524ce70a6a5d7dba097c3d78d5e2b1 Jeff <jwayman@sonatype.com> 1408733966 -0400	pull --no-commit origin gh-pages: Fast-forward
+8cb4549b23524ce70a6a5d7dba097c3d78d5e2b1 a0423489f27428ddae3f7297f02c865beeb980bb Jeff <jwayman@sonatype.com> 1408734605 -0400	commit: testing index.html update.
+a0423489f27428ddae3f7297f02c865beeb980bb 02f189fc860c6d472d02235a09b10038c02eac62 Jeff <jwayman@sonatype.com> 1408734724 -0400	checkout: moving from gh-pages to master
+02f189fc860c6d472d02235a09b10038c02eac62 a0423489f27428ddae3f7297f02c865beeb980bb Jeff <jwayman@sonatype.com> 1408738042 -0400	checkout: moving from master to gh-pages

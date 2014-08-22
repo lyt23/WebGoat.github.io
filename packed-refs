@@ -1,0 +1,8 @@
+# pack-refs with: peeled fully-peeled 
+b68a73f4a8695707f61834385f4445cd5b44bde9 refs/remotes/origin/gh-pages
+02f189fc860c6d472d02235a09b10038c02eac62 refs/remotes/origin/master
+5b2a849322442938b44456bea31a217032387f95 refs/remotes/origin/next
+6668b3660a37af726ad59cfae51749dad8fa0f62 refs/tags/webgoat-5.1
+937cc54ec3edffaa9582abce580863b02996b0b2 refs/tags/webgoat-5.4
+ef6b7a2a0b410b9b576d50efd308aecc0efd2248 refs/tags/webgoat_5.4
+02bcf39ecfb50e01e806a9471cd3871cfe11c768 refs/tags/webgoat_5.4@480
